@@ -1,9 +1,12 @@
 # Usability Testing Report
 
 ## Summary
-Will add a brief description later on.
+This document records the outcome of a series of usability tests conducted on an in-development website created for the purpose of selling cybersecurity certifications and education. In no particular order, we present our finds from both rounds of usability testing.
 
 ## Findings
+
+### Incorrect cart calculations
+The cart was not properly keeping track of how many items were being effectively held in the cart. Additionally, the fees and total charges were incorrect. These changes were implemented following the second round of tests.
 
 ### Inappropriate input types for some fields on checkout
 Some of the input fields during the checkout process have input types which add arrows to the input box. This was mildly misleading and could cause some confusion for people who assume you must use the arrows to input the number.
