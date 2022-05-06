@@ -20,5 +20,8 @@ Some users had trouble inputting the expiration date using the selector. The opt
 ### Poor color contrast when using a dark theme
 One user had an extension on their browser that made the page background change to be a dark color rather than the default white. This led to some issues with the background color of images being white and not matching the website. Also some icons where very hard to see on a dark background. The option to set a dark theme natively may be helpful for people who prefer it. 
 
+### Understanding of the website
+Most users were able to understand the purpose of the website as it is a marketplace to buy cybersecurity certifications. They were able to follow the simple logic of a marketplace website as they simply add items to the cart and work through a simple checkout process. 
+
 ## Conclusion
 Overall, users were able to easily navigate most of the website and only ran into minor hiccups here and there. Most suggestions are small kinks that could be ironed out with some basic tweaks to the website. Further usability testing is required to find any other issues on mobile devices or unconventional screen sizes that were not covered in these rounds of testing.
